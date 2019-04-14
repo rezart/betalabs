@@ -15,7 +15,7 @@ module.exports = {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'betalabs',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
@@ -24,14 +24,6 @@ module.exports = {
       {
         title: 'About',
         path: '/about',
-      },
-      {
-        title: 'Showcase',
-        path: '/showcase',
-      },
-      {
-        title: 'Example',
-        path: '/example',
       },
     ],
   },
